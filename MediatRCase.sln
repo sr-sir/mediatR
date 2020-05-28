@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRCase(IRequest)", "MediatRCase\MediatRCase(IRequest).csproj", "{144390D7-6ADC-4BE7-98E0-A9DC8CD6CEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRCase", "MediatRCase(INotification)\MediatRCase.csproj", "{9B28EDB5-078B-42ED-BFFF-D3825BED5C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144390D7-6ADC-4BE7-98E0-A9DC8CD6CEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144390D7-6ADC-4BE7-98E0-A9DC8CD6CEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144390D7-6ADC-4BE7-98E0-A9DC8CD6CEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144390D7-6ADC-4BE7-98E0-A9DC8CD6CEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B28EDB5-078B-42ED-BFFF-D3825BED5C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B28EDB5-078B-42ED-BFFF-D3825BED5C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B28EDB5-078B-42ED-BFFF-D3825BED5C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B28EDB5-078B-42ED-BFFF-D3825BED5C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C358D0-A113-4AAA-A46E-650A4CF33414}
+	EndGlobalSection
+EndGlobal
